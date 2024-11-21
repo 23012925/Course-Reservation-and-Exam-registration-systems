@@ -1,6 +1,6 @@
 # Course-Reservation-and-Exam-registration-systems
-# Register Number: 212223230075
-# Date :17-11-2024
+# Register Number: 212223040072
+# Name: JANARTHANAN K
 # Aim
 To Develope a Course Reservation and Exam Reservation using Star UML.
 # Use case Diagrams
